@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(207, 207, 207);
+}
+.oi {
+    display: flex;
+
+}
+.tipo01 {
+    padding: 2rem;
+    margin: 2rem 3.5rem 5rem;
+}
+.tipo02 {
+    background-color: white;
+    border: 1px solid rgb(245, 243, 243);
+    padding: 2rem;
+    margin-top: 4rem;
+    margin-left: 4rem;
+    margin-right: 10rem;
+}
+a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgb(97, 97, 185);
+}
+h1 {
+    font-family: sans-serif;
+    color: blue;
+}
+p {
+    font-family: sans-serif;
+    padding: 0;
+}
+.botao01 {
+    background-color: blue;
+    font-family: sans-serif;
+    color: white;
+    width: 15rem;
+    height: 2rem;
+}
+.botao01 {
+
+}
+.botao02 {
+    background-color: rgb(46, 184, 34);
+    color: white;
+    width: 8rem;
+    height: 2rem;
+    
+}
+.tipo03 {
+    margin-left: 33.5rem;
+    margin-right: 10rem;
+
+    
+}
+input {
+    width: 15rem;
+    height: 1.5rem;
+    margin: 3px;
+    
+
+}
+
+
